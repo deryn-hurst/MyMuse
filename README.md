@@ -1,2 +1,2 @@
 # MyMuse
-Files for MyMuse, playlist curator
+Files for MyMuse, playlist curator. Includes icons and code
