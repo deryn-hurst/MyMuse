@@ -56,6 +56,8 @@ This Prolog file populated with songs from my library. These can be change.
 As long as the rules and facts follow set conventions, compatibility should remain
 intact.
 
+The original Prolog file can be found under the name music.pl
+
 <b> IMAGES </b>
 
 Musey, the AI icon is provided in both .png and .ai format and can be used as is
